@@ -1,1 +1,2 @@
 1. pred commitom je bil status vseh datotek unknown
+2. pred commitom datotek je bil status added
