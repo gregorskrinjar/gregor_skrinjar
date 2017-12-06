@@ -1,2 +1,3 @@
 1. pred commitom je bil status vseh datotek unknown
 2. pred commitom datotek je bil status added
+3. pred commitom datotek ni bilo statusa datoteke tmp.txt, bil je status vaja/porocilo.txt modified 
